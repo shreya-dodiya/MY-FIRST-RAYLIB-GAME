@@ -1,6 +1,6 @@
 # My First Raylib Game 🎮
 
-My first C++ game built using raylib!
+C++ games built using raylib!
 
 Move the white ball around the green window using the arrow keys.
 
